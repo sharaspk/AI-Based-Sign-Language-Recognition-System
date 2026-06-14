@@ -1,4 +1,6 @@
-streamlit
-tensorflow-cpu==2.15.0
+streamlit==1.29.0
+tensorflow-cpu==2.13.0
 numpy==1.24.3
-pillow
+pillow==9.5.0
+protobuf==3.20.3
+keras==2.13.1
